@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Search><pages Count="33"><page Index="1"><![CDATA[GNANA PRANHITA
-      S e p t e m b e r   2 0 2 0                                                                          I s s u e   1
+<Search><pages Count="34"><page Index="1"><![CDATA[NATIONAL INSTITUTE OF TECHNOLOGY ANDHRA PRADESH
+                                               रा ीय  ौ ो गक  स ान आ   दश
+                                                                      ं
+                                                                                      े
+                                                                                ं
+                                         COMPUTER SCIENCE AND ENGINEERING DEPARTMENT
+                                                  संगणक  व ान एवं अ भयां  क   वभाग
 
 
-                                        ान  ाण हता
+
+                                       GNANA PRANHITA
 
 
-
-
-
-
-                          NATIONAL INSTITUTE OF TECHNOLOGY ANDHRA PRADESH
-                                                  ं
-                                                             ं
-                                                                    े
-                          रा ीय  ौ ो गक  स ान आ   दश
-                          COMPUTER SCIENCE AND ENGINEERING DEPARTMENT
-                          संतानक  व नं यवम अभय  ी वभग
-                                  ं
+                                               ान  ाण हता
 
 
 
@@ -64,23 +59,29 @@
 
 
 
-                                                   C S E   N e w s l e t t e r
 
 
 
-                                     “The best programs are written so that computing
 
-                              machines can perform them quickly and so that human
-                               beings can understand them clearly. A programmer is
+                                                  C S E   N e w s l e t t e r
 
-                            ideally an essayist who works with traditional aesthetic
 
-                             and literary forms as well as mathematical concepts, to
 
-                               communicate the way that an algorithm works and to
-                                     convince a reader that the results will be correct.”
 
-                                                                                               -Donald E. Knuth
+                                    “The best programs are written so that computing
+                             machines can perform them quickly and so that human
+
+                              beings can understand them clearly. A programmer is
+
+                           ideally an essayist who works with traditional aesthetic
+                            and literary forms as well as mathematical concepts, to
+
+                              communicate the way that an algorithm works and to
+
+                                    convince a reader that the results will be correct.”
+
+                                                                                              -Donald E. Knuth
+
 
 
       S e p t e m b e r   2 0 2 0                                                                          I s s u e   0 1]]></page><page Index="2"><![CDATA[FOREWORDS
@@ -166,68 +167,72 @@
 
 
 
-      S e p t e m b e r   2 0 2 0                                                                          I s s u e   0 1]]></page><page Index="3"><![CDATA[GPT-3
+      S e p t e m b e r   2 0 2 0                                                                          I s s u e   0 1]]></page><page Index="3"><![CDATA[INDEX
 
 
 
 
 
 
+        Introduction                                                                        1
 
 
 
+        Forewords                                                                           2
 
 
+        About CSE Department                                                                4 - 5
 
 
+        GPT-3                                                                               6 - 9
 
 
+        Human computer interaction                                                          9 - 12
 
 
-
-                                                                                “Our intelligence
-
-                                                                                is what makes
-
-                                                                                us human, and
-
-                                                                                AI is an
-
-                                                                                extension of
-                                                                                that quality.”
+        From Zeros to Heros  Startup Stories                                                13 - 15
 
 
-      Generative Pretrained Transformer (GPT) is a newly emerging                                  -Yann LeCun
-      language model. A Language Model is a statistical language model
-      that is a probability distribution over a sequence of words. Mostly
-      language models distinguish between words and phrases. For
-      example, accept and except will pronounce similarly also a bear has           “As more and more
-      two meanings 1.) to tolerate 2.) animal. For distinguishing between
-      such a kind of word, language models are useful. It is just one of the     artificial intelligence
-      advantages of language models. Major Problem in building
-      Language Models is Data parsity.                                              is entering into the
-                                                                                        world, more and
-      GPT-3 is getting developed by an artificial intelligence company
-      OpenAI. OpenAI is an AI research and deployment company that                        more emotional
-      announces GPT-3 AI-Language Model with 175 Billion Parameters.                   intelligence must
-      A team of researchers from OpenAI recently published a paper
-      describing GPT-3, a deep learning model for natural-language with                            enter into
-      175 billion parameters, 100x more than the previous version GPT-2
-      that has developed from GPT.GPT-2 has  1.5 billion parameters                             leadership.”
-      where GPT-3 has 175 billion parameters. The dataset and model                                   -Amit Ray
-      size is about two orders of magnitude larger than those used for
-      GPT-2.
+        Quantum Computing                                                                   16 - 19
 
-      Evaluation of GPT-3 has done under three conditions:                      "OpenAI’s latest
 
-         Few-shot learning – Classify new data after seeing a few               breakthrough is
-         examples                                                               astonishingly powerful,
-         One-shot learning – Classify new data after seeing only one
-         example                                                                but still fighting its
-         Zero-shot learning – Classify new data without seeing any
-         examples                                                               flaws."
-                                                                                                       -The Verge
+        For Web Developers Tools and Trending                                               20
 
+
+        Technologies
+
+
+        Activities in the Department                                                        21
+
+
+        Human Machine Collab Against                                                        22 - 25
+
+
+        Cyberattacks
+
+
+        Student Stress During Covid                                                         26 - 27
+
+
+        How to Handle Interviews                                                            28 - 31
+
+
+        Research in the Department                                                          32 - 34
+
+
+        Projects                                                                            35 - 38
+
+
+        Reports of CSEA 2018 - 2019                                                         39
+
+
+        Achievements 2018 - 2019                                                            40 - 41
+
+
+        Department of CSE Students                                                          42 - 44
+
+
+        Achievements
 
 
 
@@ -1834,4 +1839,91 @@
 
 
 
-      S e p t e m b e r   2 0 2 0                                                                          I s s u e   0 1]]></page><page Index="31"><![CDATA[]]></page><page Index="32"/><page Index="33"/></pages></Search>
+      S e p t e m b e r   2 0 2 0                                                                          I s s u e   0 1]]></page><page Index="31"><![CDATA[]]></page><page Index="32"/><page Index="33"/><page Index="34"/><page Index="35"/><page Index="36"/><page Index="37"/><page Index="38"/><page Index="39"/><page Index="40"/><page Index="41"/><page Index="42"/><page Index="43"/><page Index="44"/><page Index="45"><![CDATA[Teams
+
+
+
+                                                                                               Designers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Ketan Bansal                  K.Yeshwanth               P.Rupa Vaishnavi
+                           3rd Year                     3rd year                      4th year
+
+
+                                                                                               Editors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         Ch.Sahiti                 Rao.Sri Varsha                 G S S Anjani
+                           3rd Year                     3rd Year                     4th Year
+
+
+
+                                                                                               Writers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     Challa Lahari                 Madhu Sravani           S.Sai Lakshmi Keerthana
+                         2nd Year                       3rd year                       3rd year
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Anudeep Chinta               Ch.Pavana Sai Sree             M.Komali Priya
+                          3rd year                      4th Year                      4th year
+
+
+
+      S e p t e m b e r   2 0 2 0                                                                          I s s u e   0 1]]></page><page Index="46"/></pages></Search>
